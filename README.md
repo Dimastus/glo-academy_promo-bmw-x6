@@ -7,6 +7,6 @@
 + tab switching
 
 ## Image of page:
-![promo-x6](/public/img/promo-x6.png)
+![promo-x6](./public/img/promo-x6.png)
 
 ## [Link github-pages](https://dimastus.github.io/glo-academy_promo-bmw-x6/)
