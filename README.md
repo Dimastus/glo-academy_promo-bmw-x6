@@ -5,6 +5,8 @@
 + accordion
 + smooth scroll
 + tab switching
++ open/close modal window
++ open/close burgermenu
 
 ## Image of page:
 ![promo-x6](/img/promo-x6.png)
